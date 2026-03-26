@@ -21,6 +21,7 @@
 }
 </style>
 
+
 <?php include 'db_connect.php'; ?>
 <?php 
 if(isset($_POST['INSERT'])) {
@@ -115,6 +116,10 @@ if(isset($_POST['SELECT'])) {
         echo "No records found";
     }
 }
+
+    
+
+
 
 
 

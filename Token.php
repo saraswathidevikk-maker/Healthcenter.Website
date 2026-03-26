@@ -1,3 +1,4 @@
+<html>
 <?php
 /* $name = $_POST['name'];
 $email = $_POST['email'];
@@ -99,3 +100,5 @@ Your appointment has been successfully booked.
 
 <?php include("view/template/Footer.php"); ?>
 <?php include("view/template/scripts.php"); ?>
+</body>
+</html>
